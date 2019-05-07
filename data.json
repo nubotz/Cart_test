@@ -1,0 +1,47 @@
+[
+  {
+    "location": "CA",
+    "items": [
+      {
+        "name": "book",
+        "price": 17.99,
+        "qty": 1
+      },
+      {
+        "name": "potato chips",
+        "price": 3.99,
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "location": "NY",
+    "items": [
+      {
+        "name": "book",
+        "price": 17.99,
+        "qty": 1
+      },
+      {
+        "name": "pencil",
+        "price": 2.99,
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "location": "NY",
+    "items": [
+      {
+        "name": "pencil",
+        "price": 2.99,
+        "qty": 2
+      },
+      {
+        "name": "shirt",
+        "price": 29.99,
+        "qty": 1
+      }
+    ]
+  }
+]
